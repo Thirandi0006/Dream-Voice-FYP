@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+librosa
+numpy
+tensorflow
+scikit-learn
+joblib
+python-multipart==0.0.9
+requests
+anyio
+soundfile
